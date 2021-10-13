@@ -20,4 +20,5 @@ if __name__ == '__main__':
 ```
 
 ### 실행예시 이미지
-
+![image](https://user-images.githubusercontent.com/89976847/137130154-0beb4fe5-7c04-44a2-a953-38789c5dc294.png)
+![image](https://user-images.githubusercontent.com/89976847/137129853-b4753b5c-5bd6-4283-81a9-1ae45123b8a9.png)
