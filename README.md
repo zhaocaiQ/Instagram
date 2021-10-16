@@ -1,10 +1,13 @@
 # Instagram_crawler
 
 ### 실행을 위한 파일
-* Instagram.ipynb
+* insta_craw.ipynb
+* insta_craw.py
+* secret.txt
 
 ### 실행을 위한 선수작업
 ![image](https://user-images.githubusercontent.com/89976847/137584654-0ac24717-9ae2-4989-a944-c47e83e829c2.png)
+
 txt파일에 아이디, 비번 입력 후 저장
 
 ### 실행예시 이미지
